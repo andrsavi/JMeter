@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="2799" it="0" lt="2680" ct="2189" ts="1737732148920" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="151146" sby="292" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="433" it="0" lt="433" ct="0" ts="1737732152241" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21787" sby="284" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="441" it="0" lt="441" ct="0" ts="1737732153205" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="17328" sby="290" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="230" it="0" lt="183" ct="0" ts="1737732154633" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22984" sby="287" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="408" it="0" lt="354" ct="0" ts="1737732155495" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="42483" sby="284" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="334" it="0" lt="334" ct="0" ts="1737732156743" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26682" sby="291" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="301" it="0" lt="109" ct="0" ts="1737732157710" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="151142" sby="292" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="103" it="0" lt="102" ct="0" ts="1737732158323" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21791" sby="284" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="202" it="0" lt="201" ct="0" ts="1737732158742" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="17317" sby="290" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="284" it="0" lt="242" ct="0" ts="1737732159912" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22980" sby="287" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="210" it="0" lt="156" ct="0" ts="1737732160847" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="42479" sby="284" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="184" it="0" lt="183" ct="0" ts="1737732161589" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26670" sby="291" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="452" it="0" lt="159" ct="0" ts="1737732162329" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="151149" sby="292" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="106" it="0" lt="106" ct="0" ts="1737732163211" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21791" sby="284" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="174" it="0" lt="173" ct="0" ts="1737732163686" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="17317" sby="290" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="224" it="0" lt="172" ct="0" ts="1737732164438" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22980" sby="287" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="163" it="0" lt="106" ct="0" ts="1737732165021" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="42479" sby="284" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="112" it="0" lt="111" ct="0" ts="1737732165724" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26670" sby="291" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="352" it="0" lt="104" ct="0" ts="1737732166278" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="151149" sby="292" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="122" it="0" lt="121" ct="0" ts="1737732166975" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21783" sby="284" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="162" it="0" lt="162" ct="0" ts="1737732167532" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="17317" sby="290" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="182" it="0" lt="136" ct="0" ts="1737732168079" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22980" sby="287" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="157" it="0" lt="108" ct="0" ts="1737732168914" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="42479" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="659" it="0" lt="614" ct="129" ts="1737732168918" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="26678" sby="291" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="330" it="0" lt="209" ct="0" ts="1737732169531" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="151153" sby="292" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="155" it="0" lt="155" ct="0" ts="1737732170038" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="21795" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="205" it="0" lt="205" ct="0" ts="1737732170570" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17328" sby="290" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="268" it="0" lt="220" ct="0" ts="1737732170696" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22984" sby="287" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="155" it="0" lt="105" ct="0" ts="1737732171278" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="42479" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="105" it="0" lt="105" ct="0" ts="1737732171528" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26670" sby="291" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="560" it="0" lt="115" ct="0" ts="1737732171725" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="151149" sby="292" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="105" it="0" lt="105" ct="0" ts="1737732172249" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21783" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="215" it="0" lt="215" ct="0" ts="1737732172607" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17324" sby="290" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="158" it="0" lt="104" ct="0" ts="1737732172934" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22980" sby="287" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="218" it="0" lt="175" ct="0" ts="1737732173187" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="42483" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="182" it="0" lt="182" ct="0" ts="1737732173390" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26674" sby="291" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="217" it="0" lt="112" ct="0" ts="1737732173787" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="151149" sby="292" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="107" it="0" lt="107" ct="0" ts="1737732174194" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21791" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="177" it="0" lt="177" ct="0" ts="1737732174613" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17324" sby="290" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="172" it="0" lt="126" ct="0" ts="1737732174791" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22972" sby="287" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="157" it="0" lt="111" ct="0" ts="1737732175122" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="42479" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="119" it="0" lt="118" ct="0" ts="1737732175232" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26678" sby="291" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="197" it="0" lt="118" ct="0" ts="1737732175549" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="151149" sby="292" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1737732175762" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21791" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="218" it="0" lt="218" ct="0" ts="1737732176083" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17317" sby="290" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="235" it="0" lt="234" ct="0" ts="1737732176144" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22951" sby="287" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="157" it="0" lt="106" ct="0" ts="1737732176681" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="42479" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="104" it="0" lt="104" ct="0" ts="1737732177057" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="26678" sby="291" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="188" it="0" lt="104" ct="0" ts="1737732177061" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="151149" sby="292" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="108" it="0" lt="108" ct="0" ts="1737732177531" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="21791" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="157" it="0" lt="157" ct="0" ts="1737732177579" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="17317" sby="290" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="265" it="0" lt="216" ct="0" ts="1737732177866" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="22972" sby="287" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="157" it="0" lt="113" ct="0" ts="1737732178195" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="42479" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="361" it="0" lt="360" ct="0" ts="1737732178401" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="26678" sby="291" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="359" it="0" lt="109" ct="0" ts="1737732178639" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="151149" sby="292" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="119" it="0" lt="119" ct="0" ts="1737732179096" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="21791" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="158" it="0" lt="158" ct="0" ts="1737732179377" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="17324" sby="290" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="191" it="0" lt="150" ct="0" ts="1737732179519" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="22980" sby="287" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="105" it="0" lt="105" ct="0" ts="1737732179996" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="26670" sby="291" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="359" it="0" lt="315" ct="0" ts="1737732179856" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="42479" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="159" it="0" lt="106" ct="0" ts="1737732180468" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="151149" sby="292" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="346" it="0" lt="346" ct="0" ts="1737732180476" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="21783" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="155" it="0" lt="155" ct="0" ts="1737732180897" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="17317" sby="290" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="158" it="0" lt="109" ct="0" ts="1737732181132" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="22980" sby="287" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="106" it="0" lt="105" ct="0" ts="1737732181592" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26678" sby="291" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="156" it="0" lt="107" ct="0" ts="1737732181592" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="42479" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="105" it="0" lt="105" ct="0" ts="1737732182015" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="21791" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="163" it="0" lt="107" ct="0" ts="1737732182005" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="151149" sby="292" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="157" it="0" lt="157" ct="0" ts="1737732182443" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17317" sby="290" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="150" it="0" lt="103" ct="0" ts="1737732182779" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22980" sby="287" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="146" it="0" lt="105" ct="0" ts="1737732182923" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="42479" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="112" it="0" lt="111" ct="0" ts="1737732183231" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26678" sby="291" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="196" it="0" lt="133" ct="0" ts="1737732183404" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="151142" sby="292" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="112" it="0" lt="112" ct="0" ts="1737732183751" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21791" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="156" it="0" lt="156" ct="0" ts="1737732183955" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17317" sby="290" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="157" it="0" lt="102" ct="0" ts="1737732184160" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22980" sby="287" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="159" it="0" lt="111" ct="0" ts="1737732184474" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="42479" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="112" it="0" lt="111" ct="0" ts="1737732184601" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26678" sby="291" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="307" it="0" lt="112" ct="0" ts="1737732184966" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="151149" sby="292" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="315" it="0" lt="315" ct="0" ts="1737732185075" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21791" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="147" it="0" lt="147" ct="0" ts="1737732185608" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17324" sby="290" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="158" it="0" lt="115" ct="0" ts="1737732185660" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22980" sby="287" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="152" it="0" lt="108" ct="0" ts="1737732186092" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="42479" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="108" it="0" lt="107" ct="0" ts="1737732186197" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="26678" sby="291" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="308" it="0" lt="239" ct="0" ts="1737732186466" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="151153" sby="292" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="156" it="0" lt="156" ct="0" ts="1737732186687" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="21795" sby="284" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="1520" it="0" lt="1519" ct="0" ts="1737732187251" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17299" sby="290" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="1633" it="0" lt="1588" ct="0" ts="1737732187275" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22984" sby="287" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="647" it="0" lt="533" ct="132" ts="1737732188925" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="42483" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="209" it="0" lt="208" ct="0" ts="1737732189571" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26682" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="281" it="0" lt="148" ct="0" ts="1737732189811" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="151149" sby="292" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="106" it="0" lt="106" ct="0" ts="1737732190067" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="21791" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="156" it="0" lt="155" ct="0" ts="1737732190235" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="17324" sby="290" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="144" it="0" lt="105" ct="0" ts="1737732190404" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="22972" sby="287" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="156" it="0" lt="107" ct="0" ts="1737732190502" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="42479" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="115" it="0" lt="115" ct="0" ts="1737732190767" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26678" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="126" it="0" lt="126" ct="0" ts="1737732190934" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="21783" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="157" it="0" lt="157" ct="0" ts="1737732191313" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="17324" sby="290" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="843" it="0" lt="143" ct="0" ts="1737732190863" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="151141" sby="292" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="159" it="0" lt="106" ct="0" ts="1737732191643" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="22972" sby="287" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="156" it="0" lt="105" ct="0" ts="1737732191866" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="42479" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="103" it="0" lt="103" ct="0" ts="1737732192196" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="26678" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="104" it="0" lt="104" ct="0" ts="1737732192237" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21791" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="362" it="0" lt="106" ct="0" ts="1737732192198" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="151149" sby="292" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="148" it="0" lt="148" ct="0" ts="1737732192661" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="17317" sby="290" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="157" it="0" lt="105" ct="0" ts="1737732193062" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="22980" sby="287" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="174" it="0" lt="122" ct="0" ts="1737732193188" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="42479" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="229" it="0" lt="228" ct="0" ts="1737732193313" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="26678" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="116" it="0" lt="115" ct="0" ts="1737732193648" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="21791" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="286" it="0" lt="130" ct="0" ts="1737732193595" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="151149" sby="292" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="153" it="0" lt="152" ct="0" ts="1737732193963" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17317" sby="290" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="174" it="0" lt="129" ct="0" ts="1737732194147" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="22980" sby="287" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="156" it="0" lt="109" ct="0" ts="1737732194227" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="42479" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="135" it="0" lt="135" ct="0" ts="1737732194572" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="26678" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="197" it="0" lt="105" ct="0" ts="1737732194666" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="151149" sby="292" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="111" it="0" lt="111" ct="0" ts="1737732194792" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="21783" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="157" it="0" lt="157" ct="0" ts="1737732195074" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17317" sby="290" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="159" it="0" lt="110" ct="0" ts="1737732195231" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22972" sby="287" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="185" it="0" lt="124" ct="0" ts="1737732195359" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="42479" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="206" it="0" lt="205" ct="0" ts="1737732195600" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="26678" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="128" it="0" lt="128" ct="0" ts="1737732195974" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21791" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="346" it="0" lt="127" ct="0" ts="1737732195932" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="151142" sby="292" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="159" it="0" lt="159" ct="0" ts="1737732196218" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17317" sby="290" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="156" it="0" lt="111" ct="0" ts="1737732196707" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="22980" sby="287" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="172" it="0" lt="122" ct="0" ts="1737732196738" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="42479" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="104" it="0" lt="103" ct="0" ts="1737732196817" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="26678" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1737732197242" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="21783" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="310" it="0" lt="135" ct="0" ts="1737732197180" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="151149" sby="292" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="153" it="0" lt="153" ct="0" ts="1737732197637" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="17324" sby="290" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="170" it="0" lt="120" ct="0" ts="1737732197791" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="22980" sby="287" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="162" it="0" lt="113" ct="0" ts="1737732198021" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="42479" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="110" it="0" lt="110" ct="0" ts="1737732198355" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="26678" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="111" it="0" lt="111" ct="0" ts="1737732198543" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="21783" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="220" it="0" lt="118" ct="0" ts="1737732198481" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="151149" sby="292" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="148" it="0" lt="148" ct="0" ts="1737732198930" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17317" sby="290" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="156" it="0" lt="104" ct="0" ts="1737732198969" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="22980" sby="287" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="184" it="0" lt="131" ct="0" ts="1737732198989" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="42479" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="105" it="0" lt="104" ct="0" ts="1737732199411" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26678" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="124" it="0" lt="124" ct="0" ts="1737732199520" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="21783" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="329" it="0" lt="109" ct="0" ts="1737732199504" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="151149" sby="292" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="155" it="0" lt="155" ct="0" ts="1737732199866" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="17324" sby="290" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="174" it="0" lt="126" ct="0" ts="1737732200050" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="22980" sby="287" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="149" it="0" lt="107" ct="0" ts="1737732200184" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="42479" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="109" it="0" lt="108" ct="0" ts="1737732200340" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26678" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="105" it="0" lt="105" ct="0" ts="1737732200665" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="21783" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="385" it="0" lt="103" ct="0" ts="1737732200639" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="151149" sby="292" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="158" it="0" lt="158" ct="0" ts="1737732200882" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="17324" sby="290" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="157" it="0" lt="117" ct="0" ts="1737732201104" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="22980" sby="287" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="174" it="0" lt="129" ct="0" ts="1737732201352" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="42479" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="112" it="0" lt="111" ct="0" ts="1737732201526" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="26678" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="230" it="0" lt="105" ct="0" ts="1737732201582" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="151149" sby="292" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="133" it="0" lt="133" ct="0" ts="1737732201745" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21791" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="166" it="0" lt="165" ct="0" ts="1737732202082" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17317" sby="290" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="156" it="0" lt="109" ct="0" ts="1737732202153" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22980" sby="287" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="162" it="0" lt="106" ct="0" ts="1737732202248" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="42479" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="109" it="0" lt="109" ct="0" ts="1737732202543" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26678" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="235" it="0" lt="190" ct="0" ts="1737732202784" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="21960" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="645" it="0" lt="344" ct="0" ts="1737732202690" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="151145" sby="292" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="171" it="0" lt="171" ct="0" ts="1737732203351" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="17324" sby="290" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="193" it="0" lt="139" ct="0" ts="1737732203644" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="22972" sby="287" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="156" it="0" lt="112" ct="0" ts="1737732203931" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="42479" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="103" it="0" lt="103" ct="0" ts="1737732204040" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="26670" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="343" it="0" lt="111" ct="0" ts="1737732204182" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="151141" sby="292" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="161" it="0" lt="115" ct="0" ts="1737732204302" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21948" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="205" it="0" lt="205" ct="0" ts="1737732204635" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17321" sby="290" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="265" it="0" lt="215" ct="0" ts="1737732204792" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22984" sby="287" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="294" it="0" lt="240" ct="0" ts="1737732204859" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="42483" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="226" it="0" lt="225" ct="0" ts="1737732205500" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26682" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="188" it="0" lt="145" ct="0" ts="1737732205641" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="21948" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="393" it="0" lt="105" ct="0" ts="1737732205546" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="151142" sby="292" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="155" it="0" lt="105" ct="0" ts="1737732206282" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22980" sby="287" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="234" it="0" lt="234" ct="0" ts="1737732206220" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17317" sby="290" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="159" it="0" lt="107" ct="0" ts="1737732206391" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="42479" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="170" it="0" lt="169" ct="0" ts="1737732206752" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26678" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="158" it="0" lt="115" ct="0" ts="1737732207287" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21956" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="361" it="0" lt="114" ct="0" ts="1737732207163" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="151142" sby="292" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="168" it="0" lt="168" ct="0" ts="1737732207403" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="17317" sby="290" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Novosibirsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="153" it="0" lt="112" ct="0" ts="1737732207736" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22980" sby="287" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Istanbul&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="187" it="0" lt="134" ct="0" ts="1737732208000" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="42479" sby="284" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Sochi&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="107" it="0" lt="106" ct="0" ts="1737732208188" s="true" lb="HTTP Request_city" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26678" sby="291" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Ekaterinburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="98" it="0" lt="0" ct="0" ts="1737732208428" s="false" lb="HTTP Request_city" rc="Non HTTP response code: java.net.SocketException" rm="Non HTTP response message: Socket closed" tn="Thread Group 1-2" dt="text" by="2980" sby="0" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /St.Petersburg/</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=St.Petersburg&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+<httpSample t="15" it="0" lt="0" ct="0" ts="1737732208521" s="false" lb="HTTP Request_city" rc="Non HTTP response code: java.net.SocketException" rm="Non HTTP response message: Socket closed" tn="Thread Group 1-3" dt="text" by="2980" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion_city</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: text expected to contain /Minsk/</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://www.svo.aero/bitrix/timetable/?search=Minsk&amp;direction=departure&amp;dateStart=2025-01-24T00%3A00%3A00%2B03%3A00&amp;dateEnd=2025-01-25T00%3A00%3A00%2B03%3A00&amp;perPage=99999&amp;page=0&amp;locale=ru</java.net.URL>
+</httpSample>
+
+</testResults>
